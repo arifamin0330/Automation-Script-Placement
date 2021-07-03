@@ -120,7 +120,7 @@
         ["xpath=//form[@id='account-creation_form']/div/div[2]/input", "xpath:idRelative"],
         ["xpath=//div[2]/input", "xpath:position"]
       ],
-      "value": "eimanz"
+      "value": "ifa"
     }, {
       "id": "47f8786c-0ae4-4d2d-ab51-6111409b0ab3",
       "comment": "",
